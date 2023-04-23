@@ -1,2 +1,2 @@
 # tic-tac-toe
-![preview image]('preview image.png')
+![preview image](preview.png)
